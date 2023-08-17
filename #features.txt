@@ -1,0 +1,3 @@
+0> upload single file
+1> upload multiple files
+2> upload large files in chunks
